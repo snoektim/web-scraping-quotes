@@ -1,6 +1,6 @@
 # Scraping Your Favorite Quotes from BrainyQuote using Python
 
-Check out the Jupyter notebook here: https://jovian.ai/snoektim/snoek-quotes-scraping
+Check out the Jupyter notebook here: https://jovian.ai/snoektim/snoek-quotes-web-scraping
 
 BrainyQuote is a great resource for browsing through quotes. However, it can be valuable to collect quotes for documentation, inspiration, or for further analysis. On the page https://www.brainyquote.com/topics an overview of all the available topics on the site can be found. In this project we will use web scraping to extract a subset of quotes of interest from this site using the Python libraries Requests and Beautiful Soup.
 
